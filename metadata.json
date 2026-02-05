@@ -1,0 +1,10 @@
+
+{
+  "name": "ZapFlow Marketing Automation",
+  "description": "Uma plataforma inteligente para gestão de WhatsApp Business, permitindo agendamento de mensagens, gestão de contatos segmentados e logística de entregas.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
