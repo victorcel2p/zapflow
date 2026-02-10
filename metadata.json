@@ -1,0 +1,8 @@
+{
+  "name": "ZapFlow Business",
+  "description": "Sistema de automação e logística para WhatsApp Business",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
